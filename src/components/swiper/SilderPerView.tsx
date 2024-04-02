@@ -8,8 +8,10 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-
-const SilderPerView: React.FC<Number> = ({ perpage }) => {
+interface PerProps {
+  perpage: number;
+}
+const SilderPerView: React.FC<PerProps> = ({ perpage }) => {
   return (
     <section className="h-auto w-[90vw]">
       <div className="h-auto w-full">
