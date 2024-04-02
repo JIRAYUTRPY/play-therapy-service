@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "hour",
+    "image": "/images/hour-hori.gif"
+  },
+  {
+    "id": 2,
+    "title": "tools",
+    "image": "/images/tools-hori.gif"
+  }
+]
