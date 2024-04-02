@@ -115,6 +115,7 @@ export default function Home() {
                   width={0}
                   height={0}
                   sizes="100vw"
+                  alt="whatis"
                   style={{ width: "100%", height: "auto" }}
                 />
               </div>
@@ -138,6 +139,7 @@ export default function Home() {
                   width={0}
                   height={0}
                   sizes="100vw"
+                  alt="whatis"
                   style={{ width: "100%", height: "auto" }}
                 />
               </div>
@@ -161,6 +163,7 @@ export default function Home() {
                   width={0}
                   height={0}
                   sizes="100vw"
+                  alt="whatis"
                   style={{ width: "100%", height: "auto" }}
                 />
               </div>
